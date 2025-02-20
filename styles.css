@@ -1,0 +1,55 @@
+/* vvv Exercise 1 vvv */
+/* div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+} */
+/* ^^^ Exercise 1 ^^^ */
+
+
+
+/* vvv Exercise 2 vvv */
+/* for all odd elements in general (first, third & fifth) */
+p {
+    background-color: salmon;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+/* for third element specifically */
+p.third {
+    font-size: 24px;
+}
+
+/* for the second element */
+#id2nd {
+    color: blue;
+    font-size: 36px;
+}
+
+/* for the fourth element */
+#id4th {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+/* ^^^ Exercise 2 ^^^ */
+
+
+
+/* vvv Exercise 3 vvv */
+button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.button1 {
+    background-color: black;
+    color:white;
+}
+
+.button2 {
+    background-color: yellow;
+}
+/* ^^^ Exercise 3 ^^^ */
